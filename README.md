@@ -6,8 +6,15 @@
 - 資料配布先
   
   - https://create.unity3d.com/jp-asobi-design
-  
-    
+- 動作確認用などに個人用途としてお使いください。
+
+
+
+## Unityバージョン
+
+- Unity 2019.3.7f1 Personal
+
+
 
 ## 備考
 

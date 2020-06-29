@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # あそびのデザイン講座サンプル
 
 ## はじめに
@@ -20,3 +21,6 @@
 
 
 
+=======
+# AsobiNoDesignSample
+>>>>>>> origin/master

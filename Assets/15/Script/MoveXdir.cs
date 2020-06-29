@@ -14,6 +14,7 @@ public class MoveXdir : MonoBehaviour
     void Start()
     {
         startPos = this.transform.position; // ゲーム開始時の位置
+
         if (negative == true)   // 逆転フラグあり?(Yes)
         {
             speed = -speed; // 逆向きのスピードになるようにする

@@ -111,7 +111,7 @@ public class PlayerController04 : MonoBehaviour
     IEnumerator WaitKeyInput()
     {
         this.gameObject.GetComponent<PlayerController04>().enabled = false; // このオブジェクトについている「PlayerController」スクリプトを消す
-
+        
         yield return new WaitForSeconds(1.0f);  // 1秒待機
 
         this.gameObject.GetComponent<PlayerController04>().enabled = true;  // 「PlayerController」を復活させます

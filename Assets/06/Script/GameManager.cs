@@ -13,6 +13,7 @@ public class GameManager : MonoBehaviour
         {
             GameObject newBall = Instantiate(ballPrefab);   // ボールを生成
             newBall.name = ballPrefab.name; // 新しく生成したゲームオブジェクトの名前をプレハブの名前と同じにする
+
         }
     }
 }

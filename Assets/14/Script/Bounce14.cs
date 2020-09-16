@@ -19,6 +19,5 @@ public class Bounce14 : MonoBehaviour
             vel += new Vector3(-norm.x * 2, 0f, -norm.z * 2);   // X,Zの法線方向の速度を+=によって加算している
             other.rigidbody.AddForce(vel * bounce, ForceMode.Impulse);  // 衝突物に力を与える
         }
-
     }
 }
